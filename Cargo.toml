@@ -2,5 +2,12 @@
 name = "clearz"
 version = "0.1.0"
 edition = "2024"
+description = "clear + scrollback reset = totally fresh your terminal"
+license = "MIT"
+repository = "https://github.com/tuphan-dn/clearz"
+homepage = "https://github.com/tuphan-dn/clearz"
+documentation = "https://docs.rs/clearz"
+keywords = ["terminal", "clear", "reset"]
+categories = ["command-line-utilities"]
 
 [dependencies]
